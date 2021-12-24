@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-CryptoMarkets/static/css/main.f62eb1c5.css",
+    "main.js": "/React-CryptoMarkets/static/js/main.78378fcf.js",
+    "static/js/787.6767de24.chunk.js": "/React-CryptoMarkets/static/js/787.6767de24.chunk.js",
+    "index.html": "/React-CryptoMarkets/index.html",
+    "main.f62eb1c5.css.map": "/React-CryptoMarkets/static/css/main.f62eb1c5.css.map",
+    "main.78378fcf.js.map": "/React-CryptoMarkets/static/js/main.78378fcf.js.map",
+    "787.6767de24.chunk.js.map": "/React-CryptoMarkets/static/js/787.6767de24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62eb1c5.css",
+    "static/js/main.78378fcf.js"
+  ]
+}
